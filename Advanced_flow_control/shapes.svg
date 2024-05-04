@@ -1,0 +1,10 @@
+<svg viewBox="300 10 400 415" xmlns="http://www.w3.org/2000/svg">
+<polygon points="300 425 580 425 560 155 510 155 500 285 450 250 450 285 400 250 400 285 350 250 350 285 300 250" stroke="#2a9fbc" stroke-width="8" fill="#addbea" />
+<rect x="430" y="330" width="50" height="40" stroke="#2a9fbc" stroke-width="6" fill="#ffffff" />
+<rect x="350" y="330" width="50" height="40" stroke="#2a9fbc" stroke-width="6" fill="#ffffff" />
+<g>
+<circle cx="550" cy="120" r="30" fill="#d8d8d8" />
+<circle cx="600" cy="90" r="40" fill="#d8d8d8" />
+<circle cx="650" cy="60" r="50" fill="#d8d8d8" />
+</g>
+</svg>
